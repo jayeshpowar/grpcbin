@@ -7,7 +7,7 @@ require (
 	github.com/moul/pb v0.0.0-20180404114147-54bdd96e6a52
 	github.com/rogpeppe/fastuuid v1.1.0 // indirect
 	github.com/smartystreets/assertions v1.0.0 // indirect
-	github.com/smartystreets/goconvey v0.0.0-20190330032615-68dc04aab96a
+	github.com/smartystreets/goconvey v1.6.4
 	golang.org/x/crypto v0.0.0-20190707102051-4def268fd1a4
 	golang.org/x/net v0.0.0-20190707102051-da137c7871d7
 	golang.org/x/sync v0.0.0-20190603230018-112230192c58 // indirect
